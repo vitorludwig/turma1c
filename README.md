@@ -1,2 +1,2 @@
 # turma1c
-aula de HTMl E CSS
+aula de HTML E CSS
